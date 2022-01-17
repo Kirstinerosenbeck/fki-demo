@@ -1,0 +1,36 @@
+{
+  "resourceType": "Observation",
+  "id": "Observation22",
+  "meta": {
+    "profile": [
+      "http://kl.dk/fhir/common/caresocial/StructureDefinition/KLCommonCareSocialFollowUp"
+    ]
+  },
+  "code": {
+    "coding": [
+      {
+        "code": "712744002",
+        "system": "http://snomed.info/sct"
+      }
+    ]
+  },
+  "subject": {
+    "reference": "Patient/1936763"
+  },
+  "valueCodeableConcept": {
+    "coding": [
+      {
+        "code": "E3",
+        "system": "http://kl.dk/fhir/common/caresocial/CodeSystem/FSIII",
+        "display": "Afsluttes"
+      }
+    ]
+  },
+  "effectiveDateTime": "2021-02-10",
+  "performer": [
+    {
+      "reference": "Practitioner/7777777"
+    }
+  ],
+  "status": "final"
+}

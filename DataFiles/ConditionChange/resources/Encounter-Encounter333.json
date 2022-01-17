@@ -1,0 +1,31 @@
+{
+  "resourceType": "Encounter",
+  "id": "Encounter333",
+  "meta": {
+    "profile": [
+      "http://kl.dk/fhir/common/caresocial/StructureDefinition/KLCommonCareSocialEncounter"
+    ]
+  },
+  "type": [
+    {
+      "coding": [
+        {
+          "code": "9f03dfbb-7a97-45a5-94db-d4c3501714a9",
+          "system": "http://kl.dk/fhir/common/caresocial/CodeSystem/KLCommonCareSocialCodes",
+          "display": "opfølgning"
+        }
+      ]
+    }
+  ],
+  "period": {
+    "start": "2021-02-10"
+  },
+  "status": "planned",
+  "subject": {
+    "reference": "Patient/1936763"
+  },
+  "class": {
+    "code": "HH",
+    "system": "http://terminology.hl7.org/CodeSystem/v3-ActCode"
+  }
+}

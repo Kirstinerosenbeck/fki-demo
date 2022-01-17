@@ -1,0 +1,15 @@
+http://hapi.fhir.org/baseR4/Patient?_id=1944114&_revinclude=*
+http://hapi.fhir.org/baseR4/Condition?_id=1944324&_revinclude=*
+
+http://hapi.fhir.org/baseR4/Condition?code=http://snomed.info/sct|6149008
+
+http://hapi.fhir.org/baseR4/Condition?code=http://snomed.info/sct|6149008
+
+http://hapi.fhir.org/baseR4/Condition?code:in=http://snomed.info/sct?fhir_vs=isa/126851005
+
+ https://server.fire.ly/R4/Condition?code:below=404684003
+ 
+ 3bba13c9-c429-408e-b82c-3f2bf25b8d39
+ 2c99f93c-4459-471d-a6b8-303d32c15ed6
+ 56860429-eabe-4d48-b8ad-d7f7b28f6df5
+ 064f983b-5ec5-40a3-bc90-c3fcec6b6ef5

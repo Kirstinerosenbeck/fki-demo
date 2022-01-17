@@ -1,0 +1,144 @@
+Sundhedskompetencer;bb7e9e71-73f6-4ec6-a0bf-eaec1e5982b4;fund vedr. helbredsrelateret adfærd;365949003
+Smerte;e7531532-7b7f-4ac0-863a-0b6a4cbe6ce2;smerter;22253000
+Alkohol;57b8979f-cf46-4312-aafa-3a0dd93aa921;fund vedr. adfærd i forbindelse med indtag af alkohol;228273003
+Cirkulation ;e3ff3fea-a4ff-4c7b-ad04-f4aad2e67fd3;fund vedr. kardiovaskulære system;106063007
+Emotionel funktion;525b5dd8-d62b-4efa-bf66-262ac47eca5b;fund vedr. emotionel tilstand;106126000
+Ernæring;c0ee1cf6-47a9-4523-8fda-a80a13e28e30;fund vedr. ernæring;300893006
+Sociale relationer;08042057-72f4-4798-a727-75ce6205dc86;fund vedr. interpersonelle relationer;225706007
+Vægt;febbd20d-f5ff-41e7-bf12-dfa0700678e0;fund vedr. vægt;107647005
+Fysisk aktivitet;f1f1eee3-a3ea-4ca1-bfa9-ebb381af1a1f;aktivitetsudfoldelsesmønster;106020009
+Kontinens;880cdd75-c63a-44a0-a4e4-8209644c8628;udskillelsesmønster;106019003
+Mobilitet og bevægelse;abc0b770-d080-4cc8-851a-aa62556730e6;fund vedr. evne til at udføre grovmotoriske funktioner;364832000
+Håndtere genstande;43f0b6da-11da-4eed-b00b-19b2177690b5;fund vedr. evne til at udføre almindelige fysiske aktiviteter;365136007
+Spisemønster;f715168e-125b-4d00-8e93-2ca4147ed13f;fund vedr. spisemønster;289136006
+Kognitiv funktion;0520a107-2bb0-47b8-8856-c53e27607e51;fund vedr. kognitiv funktion;373930000
+Kropsopfattelse;43ad3091-f684-4d6f-8885-20ecd1cf2255;fund vedr. kropsopfattelse;277813003
+Respiration;e33396bb-019a-4fda-b901-1dbfdea1fc10;fund vedr. respirationssystemet;106048009
+Tobak;1a34ed6c-083b-451f-b8c8-137f99126b0c;fund vedr. brug af og udsættelse for tobak;365980008
+Daglige aktiviteter;fab34c19-4805-45af-b961-56099c849744;fund vedr. almindelig daglig livsførelse;118233009
+Søvn og hvile;cb55874a-93d9-45c7-a25a-8ff677c24385;fund vedr. søvn/hvilemønster;106021008
+Medicin og stoffer;f0b62265-6c83-4239-af97-4d6e9ba9dea7;fund vedr. adfærd i relation til stofmisbrug;228366006
+Problemer med misbrug;I6.3;fund vedr. adfærd i relation til stofmisbrug;228366006
+Kroniske smerter;I9.3;Kroniske smerter;82423001
+Problemer med arterielt sår;I4.5;Ischemic ulcer of skin;17111000119107
+Problemer med cancersår;I4.3;malign neoplastisk sygdom;363346000
+Problemer med overvægt;I3.4;overvægtig;238131007
+Uhensigtsmæssig vægtændring;I3.3;fund vedr. vægtændring;365921005
+Problemer med indsigt i behandlingsformål;I11.2;utilstrækkelig viden om behandlingsregime;129868008
+Andre problemer med hud og slimhinder;I4.9;fund vedr. hud OG/ELLER slimhinde;415531008
+Problemer med misbrug;I6.3;fund vedr. adfærd i forbindelse med indtag af alkohol;228273003
+Problemer med personlig pleje;I1.1;fund vedr. evne til at udføre aktiviteter ifm. personlig hygiejne;365179009
+Problemer med afføringsinkontinens;I12.1;afføringsinkontinens;72042002
+Kognitive problemer;I11.4;fund vedr. kognitiv funktion;373930000
+Problemer med traumesår;I4.8;sår;416462003
+Problemer med følesans;I9.5;observation vedr. sansefornemmelse;271712005
+Problemer med cancersår;I4.3;forårsaget af;42752001
+Problemer med mave og tarm;I12.4;fund vedr. mave-tarm-kanalen;386618008
+Døgnrytmeproblemer;I10.1;Abnormal circadian rhythm;15976004
+Problemer med kommunikation;I5.1;fund vedr. kommunikation;118231006
+Problemer med synssans;I9.6;fund vedr. synet;301978000
+Mentale problemer;I6.4;fund vedr. mental tilstand;36456004
+Problemer med sygdomsindsigt;I11.3;utilstrækkelig viden om sygdomsproces;129864005
+Problemer med hørelse;I9.7;fund vedr. hørelse;118230007
+Problemer med fødeindtag;I3.2;fund vedr. indtag af næringsstoffer;366358006
+Problemer med cancersår;I4.3;ulcus;429040005
+Problemer med mobilitet og bevægelse;I2.1;fund vedr. evne til at udføre grovmotoriske funktioner;364832000
+Cirkulationsproblemer;I7.2;fund vedr. kardiovaskulære system;106063007
+Problemer med undervægt;I3.5;undervægtig;248342006
+Problemer med tryksår;I4.4;Tryksår;399912005
+Problemer med seksualitet;I8.1;fund vedr. seksualitet og seksuel aktivitet;118199002
+Akutte smerter;I9.1;Akutte smerter;274663001
+Problemer med urininkontinens;I12.3;urininkontinens;165232002
+Problemer med diabetisk sår;I4.2;diabetisk hudsår;422183001
+Problemer med blandingssår;I4.7;Blandet arteriovenøst bensår;238792006
+Emotionelle problemer;I6.2;fund vedr. emotionel tilstand;106126000
+Problemer med socialt samvær;I6.1;fund vedr. interpersonelle relationer;225706007
+Problemer med lugtesans;I9.4;fund vedr. lugtesans;106151004
+Periodevise smerter;I9.2;Intermitterende smerter;314642004
+Respirationsproblemer;I7.1;fund vedr. respirationssystemet;106048009
+Problemer med hukommelse;I11.1;fund vedr. hukommelse;106136008
+Problemer med venøst sår;I4.6;Venøst bensår;402863005
+Problemer med smagssans;I9.8;fund vedr. smagssans;76489005
+Problemer med daglige aktiviteter;I1.2;fund vedr. almindelig daglig livsførelse;118233009
+Søvnproblemer;I10.2;fund vedr. søvn;106168000
+Problemer med kirurgisk sår;I4.1;fund vedr. operationssår;419635000
+Problemer med væskeindtag;I3.1;fund vedr. væskeindtag;289164001
+Problemer med vandladning;I12.2;fund vedr. vandladning;252041008
+Fødeindtagelse;J1.5;fund vedr. evne til at synke;364797002
+Overordnede kognitive funktioner;J4.4;fund vedr. kognitiv funktion;373930000
+Forflytte sig;J3.5;fund vedr. evne til at forflytte sig;714882001
+Tilegne sig færdigheder;J4.7;fund vedr. indlæring;106138009
+Lave mad;J2.2;fund vedr. evne til at udføre aktiviteter i relation til mad og drikke;365243008
+Kropspleje;J1.2;fund vedr. evne til at udføre aktiviteter ifm. personlig hygiejne;365179009
+Varetage egen sundhed;J1.7;fund vedr. helbredsrelateret adfærd;365949003
+Bruge transportmidler;J3.3;fund vedr. evne til at anvende transport;365346003
+Problemløsning;J4.8;fund vedr. problemløsning;365926000
+Bevæge sig omkring;J3.2;fund vedr. evne til at bevæge sig;364833005
+Muskelstyrke;J3.7;fund vedr. skeletmuskels styrke;271708004
+Gå på toilet;J1.8;fund vedr. evne til at klare toiletbesøg;365207002
+Skaffe sig varer og tjenesteydelser;J2.4;fund vedr. evne til at foretage indkøbsaktiviteter;365365006
+Orienteringsevne;J4.3;fund vedr. orientering;311470005
+Energi og handlekraft;J4.6;fund vedr. handlekraft;365441007
+Anvende kommunikationsudstyr og -teknikker;J4.1;fund vedr. kommunikation;118231006
+Have lønnet beskæftigelse;J5.1;fund vedr. evne til at udføre arbejdsmæssige aktiviteter;365389004
+Gå;J3.8;fund vedr. evne til at gå;366727007
+Fødeindtagelse;J1.5;fund vedr. evne til fødeindtagelse;364786002
+Udføre daglige rutiner;J2.3;fund vedr. anvendelse af dagen;225787000
+Færden i forskellige omgivelser;J3.4;fund vedr. evne til at bevæge sig omkring;365092005
+Drikke;J1.4;fund vedr. drikkeevne;364778002
+Lave husligt arbejde;J2.1;fund vedr. evne til at udføre husholdningsaktiviteter;365304007
+Spise;J1.6;fund vedr. spiseevne;364811008
+Løfte og bære;J3.1;fund vedr. evne til at udføre almindelige fysiske aktiviteter;365136007
+Vaske sig;J1.1;fund vedr. evne til at udføre aktiviteter ifm. vask og tørring;365180007
+Udføre daglige rutiner;J2.3;fund vedr. evne til at administrere tiden;365091003
+Hukommelse;J4.2;fund vedr. hukommelse;106136008
+Følelsesfunktioner;J4.5;fund vedr. emotionel tilstand;106126000
+Ændre kropsstilling;J3.6;fund vedr. evne til at skifte stilling;364913007
+Af- og påklædning;J1.3;fund vedr. evne til at udføre påklædningsaktivitet;365222007
+Udholdenhed;J3.9;fund vedr. tolerance for fysisk aktivitet;365386006
+Psykomotoriske funktioner;87a689e9-fe3b-4696-a15f-07b7be8fecf4;fund vedr. motorisk adfærd;106129007
+Fødeindtagelse;c0624874-bdd4-4879-99c5-3a7330f83cc9;fund vedr. evne til at synke;364797002
+Balance;1b5ad154-d22c-4949-a5db-c01ccefd64d9;fund vedr. balance;298304004
+Følelsesfunktioner;d377b371-64f5-416c-93f3-852e437ae1cb;fund vedr. emotionel tilstand;106126000
+Fødeindtagelse;c0624874-bdd4-4879-99c5-3a7330f83cc9;fund vedr. evne til fødeindtagelse;364786002
+Opmærksomhed ;36248229-67ac-4f5a-9446-b72c7208e34d;fund vedr. årvågenhed;409083006
+Ødem;65ca1484-390b-4f1e-ba14-86a170ba75b9;ødem;267038008
+Gå på toilet;cffd4ef7-0282-4a68-a542-bae128172047;fund vedr. evne til at klare toiletbesøg;365207002
+Varetage uddannelse;73642409-bcd7-41b7-a2ed-50ae37352167;fund vedr. evne til at gennemføre uddannelses- og undervisningsaktiviteter;365384009
+Energi og handlekraft;1d9759c6-6526-4d07-994a-5dee3fa65177;fund vedr. handlekraft;365441007
+Færden med transportmidler;271c791c-7b6e-4a43-bf2f-d2a815386749;fund vedr. evne til at anvende transport;365346003
+Varetage beskæftigelse;5f2310b3-cad1-43f6-9dc7-d982da141860;fund vedr. evne til at udføre arbejdsmæssige aktiviteter;365389004
+Overordnede kognitive funktioner;2c99f93c-4459-471d-a6b8-303d32c15ed6;fund vedr. kognitiv funktion;373930000
+Spise og drikke;a05628c5-0128-42f7-844c-0f8261041328;fund vedr. drikkeevne;364778002
+Respiration;fa0028ca-72c5-4180-aefe-7b696698b196;fund vedr. respirationssystemet;106048009
+Hukommelse;56860429-eabe-4d48-b8ad-d7f7b28f6df5;fund vedr. hukommelse;106136008
+Ledfunktion;3c366bd0-0c87-4f2d-a755-0fba564c7a9d;fund vedr. led;118952005
+Smerter;40cbf3ef-9ec0-4795-bb3b-ea7c788b49e2;smerter;22253000
+Vaske sig;0c126894-60e1-4781-96b7-9b227677bfb6;fund vedr. evne til at udføre aktiviteter ifm. vask og tørring;365180007
+Håndtere genstande;713fcbca-3776-4fb5-b423-2b82fcab7865;fund vedr. evne til at udføre almindelige fysiske aktiviteter;365136007
+Koordination;d6a26f74-bff7-40e0-95d5-0b382119ad6d;fund vedr. koordination/mangel på koordination;298314008
+Kropspleje;dc2691db-fcc5-406f-a790-3c1f2f91c6b9;fund vedr. evne til at udføre aktiviteter ifm. personlig hygiejne;365179009
+Orienteringsevne;95fbdaed-00a4-461e-961d-629322c89914;fund vedr. orientering;311470005
+Udføre daglige rutiner;a2e013fb-7c91-4c5a-90c6-d119ff3e0ce8;fund vedr. evne til at administrere tiden;365091003
+Af- og påklædning;1e199483-7201-43ef-a685-7fee7f4398ce;fund vedr. evne til at udføre påklædningsaktivitet;365222007
+Deltage i fritidsaktiviteter og fællesskaber;9c2c29fb-4df7-4be4-a72f-383b488d575d;fund vedr. evne til at udføre sociokulturelle aktiviteter;365341008
+Udføre daglige rutiner;a2e013fb-7c91-4c5a-90c6-d119ff3e0ce8;fund vedr. anvendelse af dagen;225787000
+Spise og drikke;a05628c5-0128-42f7-844c-0f8261041328;fund vedr. spiseevne;364811008
+Sår og cicatriser;263a2c2f-7ae2-4264-8808-7e8216b1a118;Hudlæsion;95324001
+Udholdenhed;acb817ea-63aa-4d7e-aa67-f557c73f7c8a;fund vedr. tolerance for fysisk aktivitet;365386006
+Ændre og opretholde kropsstilling;2a641de6-1017-4647-a0fb-c3c8b7b1f43e;fund vedr. evne til at kontrollere stilling;364903004
+Læring og anvendelse af viden;3bba13c9-c429-408e-b82c-3f2bf25b8d39;fund vedr. indlæring;106138009
+Varetage egen sundhed;91fbebf5-9cd2-4a95-ab7f-3e94e635253e;fund vedr. helbredsrelateret adfærd;365949003
+Gang og bevægelse;3f27a7bc-790d-444e-bcf4-6e22a6b1da7e;fund vedr. evne til at bevæge sig;364833005
+Indkøb;bd088375-65fc-4e1d-9a8b-78dc918e6581;fund vedr. evne til at foretage indkøbsaktiviteter;365365006
+Cirkulation;a2253dcc-4806-4491-af3a-373344a70ccc;fund vedr. kardiovaskulære system;106063007
+Kommunikation;064f983b-5ec5-40a3-bc90-c3fcec6b6ef5;fund vedr. kommunikation;118231006
+Sanser;2d3a12d0-c0d9-4702-a96e-1d7824c80c6c;fund vedr. synet;301978000
+Lave mad;2bd07f7c-e6bb-424b-ab8f-f7c1de2afe80;fund vedr. evne til at udføre aktiviteter i relation til mad og drikke;365243008
+Oplevelse af egen krop;eec8fc0a-7a30-49ea-ba3d-1c1d3cb50bfb;fund vedr. kropsopfattelse;277813003
+Samspil og kontakt;04d9580e-669a-42d5-b20f-3c651ad5b8bf;fund vedr. interpersonelle relationer;225706007
+Lave husligt arbejde;b53bca74-fd3f-4127-89ae-1a39d7836b93;fund vedr. evne til at udføre husholdningsaktiviteter;365304007
+Kommunikation;064f983b-5ec5-40a3-bc90-c3fcec6b6ef5;fund vedr. evne til at forstå;385337002
+Sanser;2d3a12d0-c0d9-4702-a96e-1d7824c80c6c;fund vedr. det sensoriske nervesystem;106147001
+Deltage i fritidsaktiviteter og fællesskaber;9c2c29fb-4df7-4be4-a72f-383b488d575d;fund vedr. evne til at deltage i fritidsaktiviteter;365368008
+Muskelfunktion;396c3048-410b-46a8-89e6-ba89cd0e8fda;fund vedr. muskel;106030000

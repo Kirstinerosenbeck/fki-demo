@@ -1,0 +1,52 @@
+{
+  "resourceType": "CarePlan",
+  "id": "PressureUlcerIntervention",
+  "meta": {
+    "profile": [
+      "http://kl.dk/fhir/common/caresocial/StructureDefinition/KLCommonCareSocialPlannedIntervention"
+    ]
+  },
+  "text": {
+    "status": "generated",
+    "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><p><b>Generated Narrative</b></p><div style=\"display: inline-block; background-color: #d9e0e7; padding: 6px; margin: 4px; border: 1px solid #8da1b4; border-radius: 5px; line-height: 60%\"><p style=\"margin-bottom: 0px\">Resource \"PressureUlcerIntervention\" </p><p style=\"margin-bottom: 0px\">Profile: <a href=\"StructureDefinition-KLCommonCareSocialPlannedIntervention.html\">PlannedIntervention</a></p></div><p><b>status</b>: active</p><p><b>intent</b>: order</p><p><b>subject</b>: <a href=\"Patient-Mark.html\">Patient/Mark</a> \" JENSEN\"</p><p><b>period</b>: 2020-05-30 --&gt; (ongoing)</p><p><b>created</b>: 2020-05-29</p><p><b>author</b>: <a href=\"Organization-HjemmesygeplejeSonderborg.html\">Organization/HjemmesygeplejeSonderborg</a> \"Hjemmesygepleje – visitation –hjemmehjælp, Sønderborg Kommune\"</p><blockquote><p><b>activity</b></p><p><b>outcomeReference</b>: <a href=\"Encounter-MarkogSaarsygeplejerske.html\">Encounter/MarkogSaarsygeplejerske</a></p><h3>Details</h3><table class=\"grid\"><tr><td>-</td><td><b>Code</b></td><td><b>Status</b></td><td><b>Performer</b></td><td><b>Description</b></td></tr><tr><td>*</td><td>Sårbehandling <span style=\"background: LightGoldenRodYellow; margin: 4px; border: 1px solid khaki\"> (<a href=\"CodeSystem-FSIII.html\">FSIII</a>#G1.39)</span></td><td>in-progress</td><td><a href=\"Organization-HjemmesygeplejeSonderborg.html\">Organization/HjemmesygeplejeSonderborg</a> \"Hjemmesygepleje – visitation –hjemmehjælp, Sønderborg Kommune\"</td><td>Tryksår på venstre ben skal tilses og behandles dagligt. Vigtigt at tjekke for infektion</td></tr></table></blockquote></div>"
+  },
+  "status": "active",
+  "intent": "order",
+  "subject": {
+    "reference": "Patient/Mark"
+  },
+  "period": {
+    "start": "2020-05-30"
+  },
+  "created": "2020-05-29",
+  "author": {
+    "reference": "Organization/HjemmesygeplejeSonderborg"
+  },
+  "activity": [
+    {
+      "outcomeReference": [
+        {
+          "reference": "Encounter/MarkogSaarsygeplejerske"
+        }
+      ],
+      "detail": {
+        "code": {
+          "coding": [
+            {
+              "system": "http://kl.dk/fhir/common/caresocial/CodeSystem/FSIII",
+              "code": "G1.39",
+              "display": "Sårbehandling"
+            }
+          ]
+        },
+        "status": "in-progress",
+        "performer": [
+          {
+            "reference": "Organization/HjemmesygeplejeSonderborg"
+          }
+        ],
+        "description": "Tryksår på venstre ben skal tilses og behandles dagligt. Vigtigt at tjekke for infektion"
+      }
+    }
+  ]
+}

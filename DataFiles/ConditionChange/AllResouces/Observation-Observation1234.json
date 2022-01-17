@@ -1,0 +1,31 @@
+{
+  "resourceType": "Observation",
+  "id": "Observation1234",
+  "meta": {
+    "profile": [
+      "http://kl.dk/fhir/common/caresocial/StructureDefinition/KLCommonCareSocialMatterOfInterest"
+    ]
+  },
+  "subject": {
+    "reference": "Patient/1936763"
+  },
+  "code": {
+    "coding": [
+      {
+        "code": "I6",
+        "system": "http://kl.dk/fhir/common/caresocial/CodeSystem/FSIII",
+        "display": "Psykosociale forhold"
+      }
+    ]
+  },
+  "effectiveDateTime": "2020-03-17",
+  "valueCodeableConcept": {
+    "text": "Borger drikker for meget, sandsynligvis pga. sorg over ægtefællens død, men der skal selvf"
+  },
+  "performer": [
+    {
+      "reference": "Practitioner/7777777"
+    }
+  ],
+  "status": "final"
+}
